@@ -1,0 +1,21 @@
+body{
+  background:url("Music.png") no-repeat center fixed;
+  -webkit-background-size:cover;
+  background-size: cover;
+}
+
+#bt{
+  height:80px;
+  width:300px;
+  font-weight: bold;
+  border-width:5px;
+  border-color: black;
+  margin-top: 15%;
+}
+#heading{
+  color:white;
+  text-align: center;
+  font-size: 90px;
+  font-family:monospace;
+  font-weight: bold;
+}
