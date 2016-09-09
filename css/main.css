@@ -3,7 +3,13 @@ body{
   -webkit-background-size:cover;
   background-size: cover;
 }
-
+#heading{
+  color:white;
+  text-align: center;
+  font-size: 90px;
+  font-family:monospace;
+  font-weight: bold;
+}
 #bt{
   height:80px;
   width:300px;
@@ -12,10 +18,4 @@ body{
   border-color: black;
   margin-top: 15%;
 }
-#heading{
-  color:white;
-  text-align: center;
-  font-size: 90px;
-  font-family:monospace;
-  font-weight: bold;
 }
